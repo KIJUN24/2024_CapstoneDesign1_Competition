@@ -13,7 +13,7 @@ Leader : Kijun Lee.
 
 Member : Sanghyun Ahn, Wonjae Lee.
 
-##### Role
+### Role
 Kijun : Programming, System Design, Cicuit Desing, Stair 3D Design.
 
 Sanghyun, Wonjae : Robot 3D Design, Hardware Assembly.
